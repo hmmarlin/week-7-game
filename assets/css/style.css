@@ -1,0 +1,34 @@
+h1, h2 {
+	font-family: 'Lakki Reddy', cursive;
+
+}
+
+.jumbotron{
+	background-image: url("http://www.trains-aircraft-trams.com/uploads/1/3/1/9/13192605/4409821_orig.gif");
+	background-repeat: no-repeat;
+	background-color: white;
+}
+
+.panel-primary>.panel-heading {
+	background-color: red;
+	border-color:black;
+
+}
+
+.btn-primary {
+	background-color:red;
+	border-color: black
+}
+
+.btn-primary:hover {
+	background-color: darkred;
+	border-color: black
+}
+
+.btn-primary:clicked {
+	background-color: red;
+	border-color: black
+}
+.panel-primary {
+	border-color: black;
+}
