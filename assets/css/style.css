@@ -20,6 +20,11 @@ h1, h2 {
 	border-color: black
 }
 
+.panel-title {
+	font-size:20px;
+	padding:5px;
+}
+
 .btn-primary:hover {
 	background-color: darkred;
 	border-color: black
@@ -31,4 +36,10 @@ h1, h2 {
 }
 .panel-primary {
 	border-color: black;
+}
+
+#timeNow {
+	text-align: center;
+	font-size:24px;
+	font-weight: 700;
 }
